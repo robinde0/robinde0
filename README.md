@@ -11,4 +11,4 @@
 
 # Freunde
 
-<img scr="./hypecord.png" height="30" width="42" alt="" />
+<img scr="https://github.com/RobKut999/RobKut999/blob/main/hypecord.png" height="30" width="42" alt="" />

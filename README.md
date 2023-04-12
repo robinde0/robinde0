@@ -11,4 +11,4 @@
 
 # Freunde
 
-<img scr="https://avatars.githubusercontent.com/u/129656313?s=200&v=4" height="30" width="42" alt="" />
+<img scr="./hypecord.png" height="30" width="42" alt="" />

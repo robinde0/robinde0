@@ -8,7 +8,3 @@
 # Sprachen
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-
-# Freunde
-
-<img scr="https://github.com/RobKut999/RobKut999/blob/main/hypecord.png" height="30" width="42" alt="hc" />

@@ -3,5 +3,5 @@
 </p>
 
 <h1 align="center">Github Stats</h1>
-<a href="https://github-readme-stats.vercel.app/api?username=robinkutde&theme=tokyonight&show_icons=true">Stats</a>
+![Stats](https://github-readme-stats.vercel.app/api?username=robinkutde&theme=tokyonight&show_icons=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robinkutde&theme=tokyonight&show_icons=true)

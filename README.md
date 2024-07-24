@@ -1,4 +1,4 @@
-![Gif](https://cdn.discordapp.com/attachments/985551183479463998/1001856009670758470/coding2.gif)
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,pycharm,html,css,js,nginx,phpstorm,raspberrypi,discord,linux,instagram,gmail,github,bots,bash,ubuntu,vscode,windows,webstorm,py,php,notion,grafana,docker,md,mysql,powershell,tailwind,figma&perline=6)](https://robinde.tech)
 
 # Meine Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=robinkutde&theme=tokyonight&show_icons=true)

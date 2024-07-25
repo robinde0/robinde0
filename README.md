@@ -1,5 +1,5 @@
 # Tools oder Apps die ich verwende.
-[![Tools](https://skillicons.dev/icons?i=cloudflare,pycharm,phpstorm,discord,linux,instagram,gmail,github,bots,ubuntu,vscode,windows,webstorm,notion,grafana,figma&perline=12)](https://robinde.tech)
+[![Tools](https://skillicons.dev/icons?i=cloudflare,pycharm,phpstorm,discord,linux,instagram,gmail,github,bots,ubuntu,vscode,windows,webstorm,notion,grafana,figma,nginx&perline=12)](https://robinde.tech)
 # Sprachen in denen ich Programmiere
 [![Langs](
 

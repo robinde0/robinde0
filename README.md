@@ -1,6 +1,6 @@
 <img src="https://lanyard.cnrad.dev/api/1109703232047034429">
 
-# Tools oder Apps die ich verwende.
+# Tools oder Programme die ich verwende.
 [![Tools](https://skillicons.dev/icons?i=cloudflare,pycharm,phpstorm,discord,instagram,gmail,github,bots,docker,vscode,webstorm,notion,grafana,figma,nginx&perline=8)](https://robinde.tech)
 # Sprachen in denen ich Programmiere
 [![Langs](https://skillicons.dev/icons?i=html,css,js,bash,py,md,mysql,powershell&perline=8)](https://robinde.tech)

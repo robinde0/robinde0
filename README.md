@@ -8,5 +8,5 @@
 [![Operating Systems](https://skillicons.dev/icons?i=linux,ubuntu,windows&perline=12)](https://robinde.tech)
 
 # Meine Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=robindeß&theme=tokyonight&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=robinde0&theme=tokyonight&show_icons=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robinde0&theme=tokyonight&show_icons=true)

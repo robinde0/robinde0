@@ -1,4 +1,4 @@
-<img src="https://lanyard.cnrad.dev/api/1109703232047034429">
+<img align="center" src="https://lanyard.cnrad.dev/api/1109703232047034429">
 
 <div align="center">
   <table>

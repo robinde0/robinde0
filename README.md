@@ -1,6 +1,6 @@
-<img align="center" src="https://lanyard.cnrad.dev/api/1109703232047034429">
+<img align="" src="https://lanyard.cnrad.dev/api/1109703232047034429">
 
-<div align="center">
+<div align="">
   <table>
     <tr>
       <td align="center"><b>Languages</b></td>
@@ -25,6 +25,3 @@
   </table>
 </div>
 
-# Meine Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=robinde0&theme=tokyonight&show_icons=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robinde0&theme=tokyonight&show_icons=true)

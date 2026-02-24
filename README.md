@@ -4,7 +4,7 @@
   <table>
     <tr>
       <td align="center"><b>Languages</b></td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=python,js" width=100" alt="Languages"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=python,js" width=150" alt="Languages"></td>
     </tr>
     <tr>
       <td align="center"><b>Frontend</b></td>
@@ -16,11 +16,11 @@
     </tr>
     <tr>
       <td align="center"><b>Tools & DevOps</b></td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=git,github,cloudflare,pycharm,webstorm" width="350" alt="Tools"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=git,github,cloudflare,pycharm,webstorm" width="150" alt="Tools"></td>
     </tr>
     <tr>
       <td align="center"><b>Operating Systems</b></td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=windows,linux,arch" width="200" alt="Tools"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=windows,linux,arch" width="150" alt="Tools"></td>
     </tr>
   </table>
 </div>
